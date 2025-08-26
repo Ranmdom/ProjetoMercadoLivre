@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "ML Automação - Plataforma para Vendedores do Mercado Livre",
   description: "Automação de atendimento e relatórios para vendedores do Mercado Livre",
-    generator: 'v0.app'
+    generator: ''
 }
 
 export default function RootLayout({
